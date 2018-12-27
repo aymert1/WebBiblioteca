@@ -1,0 +1,46 @@
+﻿body
+{
+    background-image:url(/images/fondo.jpg);
+
+}
+#global
+{
+    height:1400px;
+    width:1400px;
+
+    
+}
+#cabecera
+{
+    width:1400px;
+    height:70px;
+    background-color:transparent;
+}
+#cabecera h2 
+{
+    color:white;
+    font-size:18px;
+    font-family:'Showcard Gothic';
+    
+    text-align:center;
+}
+#menu
+{
+    width:230px;
+    height:1000px;
+    float:left;
+    background-color: #101050;
+}
+#contenido
+{
+    width:1170px;
+    height:1000px;
+    background-color:#000010;
+    background-position:left;
+    float:left;
+}
+#pie
+{
+    width:800px;
+    height:35px;
+}
